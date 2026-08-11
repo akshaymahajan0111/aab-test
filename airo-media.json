@@ -1,0 +1,95 @@
+{
+  "logo/primary": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/transparent-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png",
+    "searchQuery": "A compact abstract time-mark for Countdown: a precise circular orbit intersected",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/transparent-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/original-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/transparent-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/transparent-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/transparent-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png": {
+        "sessionId": "a227d007-afe4-4fc2-8f4e-5b3be2552d4e",
+        "logoId": "51806bb8-321f-41e8-bd3a-89b8106a2b6f",
+        "groupId": "ef1d72ea-f226-48fb-8cd3-454279305594"
+      }
+    },
+    "productMockupsMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/transparent-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/mockup-mug-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/mockup-card-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/mockup-tshirt-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/mockup-box-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/mockup-mug-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/mockup-card-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/mockup-tshirt-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/mockup-box-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png"
+      }
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-11T19:10:12.335Z",
+    "lastUpdated": "2026-08-11T19:10:59.496Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#161A20",
+    "darkSurfaceUrl": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/a227d007-afe4-4fc2-8f4e-5b3be2552d4e/transparent-51806bb8-321f-41e8-bd3a-89b8106a2b6f/logo-logo.png",
+    "logoGroupId": "ef1d72ea-f226-48fb-8cd3-454279305594"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/7716758c-ab1a-4b04-b2ac-ca83358dcd26/favicon-transparent-a35e1bc2-bf90-41f6-87a8-905dd545e060/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/7716758c-ab1a-4b04-b2ac-ca83358dcd26/favicon-transparent-a35e1bc2-bf90-41f6-87a8-905dd545e060/logo-logo.png": {
+        "sessionId": "7716758c-ab1a-4b04-b2ac-ca83358dcd26",
+        "logoId": "a35e1bc2-bf90-41f6-87a8-905dd545e060",
+        "groupId": "ef1d72ea-f226-48fb-8cd3-454279305594"
+      }
+    },
+    "logoGroupId": "ef1d72ea-f226-48fb-8cd3-454279305594",
+    "userModified": false,
+    "createdAt": "2026-08-11T19:10:37.640Z",
+    "lastUpdated": "2026-08-11T19:10:59.609Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#161A20",
+    "darkSurfaceUrl": "https://isteam.dev-wsimg.com/genai-assistant/logoagent/customer/local-customer-001/session/7716758c-ab1a-4b04-b2ac-ca83358dcd26/favicon-transparent-a35e1bc2-bf90-41f6-87a8-905dd545e060/logo-logo.png"
+  }
+}

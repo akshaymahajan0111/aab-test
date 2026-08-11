@@ -1,0 +1,24 @@
+{
+  "event": {
+    "label": "Next horizon",
+    "target": "Friday, 14 August 2026 · 09:00 IST",
+    "status": "Counting down to a focused moment"
+  },
+  "time": {
+    "days": "02",
+    "hours": "08",
+    "minutes": "21",
+    "seconds": "36"
+  },
+  "controls": {
+    "pause": "Pause",
+    "reset": "Reset",
+    "edit": "Edit event",
+    "settings": "Settings"
+  },
+  "footer": {
+    "timezone": "Asia / Kolkata",
+    "mode": "Countdown mode",
+    "note": "One moment at a time."
+  }
+}
