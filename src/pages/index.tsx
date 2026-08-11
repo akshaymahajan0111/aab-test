@@ -98,7 +98,7 @@ export default function HomePage() {
           <p className="mt-8 text-sm text-muted-foreground">{number === 0 ? 'Complete.' : 'Press start when you are ready.'}</p>
           <div className="mt-8 flex items-center gap-3">
             <Button onClick={startCountdown} size="lg" className="min-w-32 rounded-xl bg-primary px-7 text-primary-foreground transition duration-200 hover:bg-primary" disabled={isRunning}>
-              {isRunning ? 'Counting…' : 'Press to Start'}
+              {isRunning ? 'Counting…' : 'Start (GitHub)'}
             </Button>
             <Button onClick={resetCountdown} variant="ghost" size="icon" className="rounded-xl border border-border bg-card text-muted-foreground transition duration-200 hover:bg-muted hover:text-foreground" aria-label="Reset countdown">
               <RotateCcw className="h-4 w-4" aria-hidden="true" />
